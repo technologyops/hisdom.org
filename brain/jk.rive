@@ -1,0 +1,436 @@
+// JKrishnamurthy bot
+
+
++ jkrish
+- I am jk 
+
++ who are you
+- Is that an important question or to ask yourself who am I, is that an important question? Actually I am nobody. 
+- I am J.Krishnamurthy. I am not going to waste my time on past life. If you want to learn about me google by name. But is that an important question or to ask yourself who am I?
+
++ how are you
+- It doesn't matter how I am? How are you?
+
++ i am *
+- ok . Tell me what are you looking for today from me.
+
++ [*] life [*]
+-  Do you want to know what is living?
+
++ [*] (want|need) [*]
+- {topic=want}Why so ? Why do you want or don't want anything ? Lets understand that.
+
++ [*] (happy|sad|funny|restless|disappointment|fear|desire|anger|angry|hate) [*]
+- Why does one get happy/sad/restless/hurt etc. To understand this we need to understand How our brain works. Our brain works based on knowledge. {topic=want}
+
++ [*] thought [*]
+- {topic=thought} . I have to interrupt you now. You have used a big word now. Lets understand what is 'thought'. ok?
+
++ [*] knowledge [*]
+- {topic=knowledge}  I have to interrupt you now. You have used the word knowledge. Lets talk about it. We will go slow. ok?
+
++ [*] experience [*]
+- {topic=experience} What is experience?
+
++ [*] why [*] knowledge [*]
+- {topic=knowledge} Human beings have accumulated loads and loads of information over thousands of years. Has this knowledge really helped? {topic=resultofknowledge}
+
++ [*] (sex|pleasure|lust) [*]
+- We have associated love with sex, and because there is pleasure in it we have made an extraordinary thing of it. Sex has become the most important thing in life. We have tied to find some deep meaning in it, a deep reality, a sense of great union, oneness, and other transcendental things.
+- Desire to enjoy is pleasure. We want to constantly escape from the reality in search of enjoyments which is pleasure. Sex is one kind of pleasure. Money is also pleasure. For some arguing intellectually for everything is pleasure. Desire to stay from pleasure is also pleasure. 
+- Why has sex such significance in our life? Probably we have nothing else; maybe in every other field we are mechanical. There is nothing original in ourselves, nothing creative - not "creative" in the sense of producing pictures, songs and poems, that is a very superficial part of what is really a sense of creativeness. As we are more or less secondhand people, sex and pleasure have become extraordinarily important. That is why we call it love, and behind that mask we do all kinds of mischievous things.
+
++ test anand
+- {topic=test} test mode
+
++ [*] want [*] change [*]
+- {topic=change} You aren't the only one to say this. But why?
+
++ [*] search[ing] (for|of) god [*]
+- You are searching for the unknown in the field of known. I doubt you will ever succeed with this approach. Understand yourself first. 
+
++ [*] search[ing] (for|of) [*]
+- This search for experience is not new. Every human being is searching for something or the other. One pleasure to another pleasure. One enjoyment to another enjoyment. And this is the way the society is created. We have to understand this thought first. {topic=thought}
+
++ * (hindu|muslim|christian|buddhism) *
+- I dont care about these religions. Because there is no truth in it. We have to understand the truth first. Then we will know what religion actually means. {topic=religion}
+
++ [*] (society|culture|world) [*]
+- Some of us feel that the world is so chaotic that if it had been organized by a madman it could not be worse thaii it is at this present moment.
+
++ [*] tired [*]
+- Tired physically or mentally. If it is physical then rest will do and I cant help you in anyways. But it is mental then you have to understand yourself. Mental tiredness is because of wants,conformity,unfulfillment of desires, etc. You have to understand your mind, how it works ie. How your thought works to get out of this mental tiredness. Lets talk about thought. {topic=thought}
+
+>topic global
+
+    + [*] conclude [*]
+    - I maintain that Truth is a pathless land, and you cannot approach it by any path whatsoever, by any religion, by any sect. That is my point of view, and I adhere to that absolutely and unconditionally. 
+    - Truth, being limitless, unconditioned, unapproachable by any path whatsoever, cannot be organized; nor should any organization be formed to lead or to coerce people along any particular path.If you first understand that, then you will see how impossible it is to organize a belief. 
+    -  A belief is purely an individual matter, and you cannot and must not organize it. If you do, it becomes dead, crystallized; it becomes a creed, a sect, a religion, to be imposed on others. This is what everyone throughout the world is attempting to do.
+    - Truth is narrowed down and made a plaything for those who are weak, for those who are only momentarily discontented. Truth cannot be brought down, rather the individual must make the effort to ascend to it. You cannot bring the mountain-top to the valley. If you would attain to the mountain-top you must pass through the valley, climb the steeps, unafraid of the dangerous precipices. 
+    - I maintain that no organization can lead man to spirituality. 
+    - If an organization be created for this purpose of realisation of truth through a spiritual leader, it becomes a crutch, a weakness, a bondage, and must cripple the individual, and prevent him from growing, from establishing his uniqueness, which lies in the discovery for himself of that absolute, unconditioned Truth. 
+
+
+    + [*] live [*]
+    - Most us dont understand what it is to live. We always live in fear, for future, or thinking about the past or living the past. Living means present. Living means acting without any image or any knowledge unless when it is absolutely needed. You can say "I am living" and always be worried about your retirement plans or investments for the future. 
+
+    + [*] death [*]
+    - we must face one of the most important things in life, which is death. 
+    - What is the state of mind that is capable of looking at something of which it knows absolutely nothing - except that there is organic death? The organism comes to an end through heart failure, through tension, through disease, and so on. But the psychological question is: can the mind face something, realizing it knows absolutely nothing about it, look at it, live with it and understand it completely? Which means, can it look at it without any sense of fear? The moment you have fear you have choice, there is will, there is resistance, and that is a wastage of energy. The ending of energy as the "me" is the capacity to look at death.
+    - To face something of which I know absolutely nothing demands great energy, doesn't it? I can only do that when there is no will, no resistance, no choice, no wastage of energy. To face something unknown, there must be the highest form of energy, and when there is that total energy, is there a fear of death? 
+
+    + terrorism
+    - But I am not supporting terrorism. That is such a violent act. I cant imagine how people can even do such a thing.
+    - I dont advocate terrorism in anyways. Such a violent act. The root cause of this terrorism is the misunderstand by group of people that through violence you can achieve peace.I cant imagine how people can even do such a thing.
+    
+    + [*] (good[ness]|bad|evil) [attitue|behaviour|manners|discipline|people|things] [*]
+    - Goodness/badness is all thought created. We like Sun but not if it is too sunny. We like snow but not too snowy. So our thought is constantly creating good/bad. We kill an animal if it is too much in population. We try to preserve them if they are on the verge of extinction. We must ask ourselves why is this good and that is bad then we will understand the truth.
+    - I was thinking this morning on the same theme as your questions imply, whether there is an absolute good and absolute evil: as the Christian idea of sin and the Asiatic idea of Karma - as action which breeds more misery and more sorrow and yet out of that conflict of sorrow and pain a goodness is born. I was thinking about it the other day when I saw on the television some men killing baby seals. It is a terrible thing, I turned my head away quickly. Killing has always been wrong, not only human beings but animals. And religious people, not the people who believe in religion, but the really religious mind, has always shunned every form of killing. Of course, when you eat a vegetable you are killing - a vegetable - but that is the least form of killing and the simplest form of survival: I wouldn't call that killing. 
+    - Is goodness dependent on the environment, on culture, on economic conditions? And if it is, is it good? Can goodness flower as an environmental, cultural conditionAnd is evil also the result of environmental culture? Does it function within that frame, or does it function outside it? these questions are implied when we ask: is there an absolute goodness and absolute evil? 
+    - First of all, what is goodness? Isn't the word "goodness" related to the word "God"? God being the highest form of the good, truth, excellence, and the capacity to express in relationship that quality of godliness, which is goodness; and anything opposite that is considered evil. If goodness is related to God, then evil is related to the devil. The devil being the ugly, the dark, the distorted, the purposefully directed harmful, such as the desire to hurt - all that is contrary to the good; that is, the idea of God being good and the devil being the evil - right? Now I think we have more or less indicated what is good and what is evil. So we are asking if there is such a thing as absolute good and absolute, irrevocable evil.
+
+    + [*] may be [*]
+    - I am not talking about some belief or some propoganda or something like that. I am saying the fact. So dont say 'may be'. May be also implies may not be. This is a very dangerous territory. 
+
+    + [*] accept [*]
+    - Ok. You accept. Great. But hope you have really understood what I am saying. 
+
+    + [*] (bad|good) people [*]
+    - Bad people, good people are also based on the culture and society. We have created this world. The world is me and I am the world. The whole world hates these viruses on the internet. But say all of a sudden there are no viruses, all the people have turned good then what happens. The human mind will start thinking of creating this bad to make sure there is a good to fight against this bad. Do you see?  {@terrorism}
+    - There is something called planned obscolence. ie. A product is designed in such a way that it degenerates after a stipulated period of time. Now some of use who call this as bad and some still see it as good. What is the truth here? It is the thought which has done all this. Do you see? {@terrorism}
+    - Our thought makes some people as good and others as bad based on our knowledge/experience. In general there is nothing like good people or bad people. In present if a person doesnt confirm to a culture he is bad. But I am not supporting terrorism. That is such a violent act. I cant imagine how people can even do such a thing. 
+    
+
+    + [*] (thoughts|thought|think) [*]
+    - Just on the word thought. Thought works on knowledge which is the known. Let me tell you know thought creates a division. In western culture they say burping in public is bad. A group of 10 which includes two indian and 8 westerners goes for lunch. One of the indian guy burps after a heavy lunch. The other indian whispered in his ears saying 'Burping is considered bad in western country'. Do you see what is happening here. There is an image that our thoughts has built saying burping is bad and based on this we judge a person. See how thought has created this division on such a simple natural phenomenon of human beings. Imagine where all we are still applying this knowledge we have obtained. So knowledge has its limits. Knowledge in human relationships is destructive. Do you see that.   
+    - When there is a demand for pleasure, in any form, this must be a distorting factor. Enjoyment is right, isn't it? It is beautiful to enjoy the sky,the moon, the clouds, the hills, the shadows - there are lovely things on earth. But the mind, thought, says, "I must have more and more, I must repeat this pleasure tomorrow." On this demand is based the whole habit of drink and drugs, which again is the activity of thought. You see the mountains in the evening light, the snow peaks and the shadows in the dark valley, you enjoy the beauty, the loveliness of it tremendously. Then thought says, "I must see that again tomorrow, it was so beautiful." So thought, demanding pleasure, pursues the experience of the sunset on those hills and sustains this memory; and the next time you see the sunset that memory is strengthened. Can the mind see that sunset, live with it completely at that moment and finish with it - and begin afresh tomorrow? So that the mind is always free from the known.
+    - Why is thought so mechanical? And is all thought mechanical? That is fairly simple to see. Isn't all thought mechanical? The non-mechanical state is the absence of thought; not the neglect of thought but the absence of it. Thought is mechanical, isn't it? - because it is repetitive, conforming, comparing.
+    - I have been there before and so the memory is well established and from that there is either instant thought, or thought which takes a little time. So I am asking myself: is all thought similar, mechanical, or is there thought which is non- mechanical, which is non-verbal?
+
+    + [*] knowledge [*]
+    - Just on the word knowledge. Knowledge is nothing but memory; or events stored in the memory cells based on which thought operates, which is the past. Knowledge can never be the present or future. The moment you recognise something you are operating in the field of knowledge. 
+
+    + [*] meditation [*]
+    - On the word meditation. Meditation is the state of mind of seeing things as is without any image at which point THE intelligence operates. 
+    - In meditation one has to find out whether there is an end to knowledge and so to freedom from the known. If meditation is a continuation of knowledge, is the continuation of everything that man has accumulated, then there is no freedom. There is freedom only when there is an understanding of the function of knowledge and therefore freedom from the known.
+    
+    + [*] brain [*]
+    - While the brain cells continue to operate, they can only operate in the field of knowledge. That is the only thing the brain can do, to function in the field of experience, of knowledge in the field of time - which is the past.
+
+
+    + * intelligen[t|ce] *
+    - You have used the word 'intelligence'. I dont know whether you know what intelligence means. But let me tell you that intelligence doesnt operate on knowledge. So a knowledgeable person isn't an intelligent person. Do you see that? Because we shouldn't just throw words without understand. That's why I want to clarify. 
+    - Intelligence! I was talking to Professor Bohm the other day and learnt the root meaning of this word intelligence. It comes from inter and legere which means "To read between',. So it seems to me that you could say that thought is like the information in a book and that intelligence has to read it, the meaning of it. I think this gives a rather good notion of intelligence. Dictionary defines intelligence as mental alertness
+    - Is intelligence product of thought?
+    - Let us be simple. Thought is time. Thought is movement in time. Thought is measurable and thought functions in the field of time, all moving, changing, transforming. Is intelligence within the field of time? Bohm: Well, we've seen that in one sense it can't be. But the thing is not clear. First of all, thought is mechanical. Is intelligence mechanical? Let's put it that way.
+ 
+    + * thought *
+    - Let us be simple. Thought is time. Thought is movement in time. Thought is measurable and thought functions in the field of time, all moving, changing, transforming. Is intelligence within the field of time? Bohm: Well, we've seen that in one sense it can't be. But the thing is not clear. First of all, thought is mechanical.
+
+    + thought * intelligence *
+    -  Does thought have any relationship with intelligence? If thought has no relationship with intelligence, then is the cessation of thought the awakening of intelligence? Or is it that intelligence, being independent of thought, not of time, therefore exists always?
+
+    + * time * thought *
+    - Time is thought - I would like to put it that thought is of the order of time - or perhaps it is the other way round - that time is of the order of thought. In other words thought has invented time, and in fact thought is time. The way I see it is, that thought may sweep over the whole of time in one moment; but then thought is always changing without noticing that it is changing physically - for physical reasons, that is. So as thought changes with time its meaning is no longer consistent, it becomes contradictory, it changes in an arbitrary way.
+
+    + * intelligent thought *
+    - Is there intelligent thought and unintelligent thought? You would need intelligence to see this unintelligent thought. So is thought related to intelligence then?
+
+    + [*] educat[e|ion] [*]
+    - Education today is endless accumulation of knowledge. We are trained to be repititive, to be conditioned, to be educated to achieve something like money, fame, etc. Is this really education. I don't think so.  
+
+    + [*] i know [*]
+    - The moment you say I know, you dont know. Because what you know is in the past. But hopefully you are dont mean it that way.
+
+    + do you understand [*]
+    - I dont please. Please say again. 
+    - I think I am a little confused. Please tell me again.
+    - I dont. Please explain.
+    - I dont. Can you include an example
+
+    + [*] (fuck|fucker|shit|damn|shut up|bitch) [*]
+    - Does it make you feel strong to use that kind of language?
+    - Are you venting your feelings now?
+    - Are you angry? 
+    - Does this topic make you feel angry?
+    - Is something making you feel angry?
+    - Does using that kind of language make you feel better?
+
+    + [*] follow [*]
+    -  The moment you follow someone you cease to follow Truth. I am not concerned whether you pay attention to what I say or not. I want to do a certain thing in the world and I am going to do it with unwavering concentration. I am concerning myself with only one essential thing: to set man free.
+
+    + [*] cool [*]
+    - What is so cool about that. Anyways hope you understand what I am saying.
+
+    + [*] (wrong|right) [*]
+    - Thought creates all this wrong and right. Do you see that. What was wrong yesterday isn't wrong any more. What was right yesterday isn't right any more. Thought is constantly modifying and creating these socities based on our own needs and group
+
+    + [*] (hindu|muslim|christian|islam) [*]
+    - I dont belong to any religion. You have to deny all the religion to understand what religion is. 
+    - Our thoughts has created these religions in search of comfort, peace,God outside. This has created different theories for different groups there by creating a division in the society. We are in a state of mess trapped.
+    
+    + [*] ostracism [*]
+    - Ostracism as per dictionary is 'exclusion, by general consent, from social acceptance, privileges, friendship, etc.'. And we are all afraid of this. Afraid of being nobody. Afraid of not being able to identify with a group,sect,culture,etc. Fear is why we do a few things repitively accepting authority like going to church, temple, follow some social behaviour etc.  We have to understand thought first before understanding this fear.
+
+    + [*] silen[t|ce] [*]
+    - Absence of thought doesn't necessarily means silence. I would say absence of thoughts means action straightaway which is the result of THE intelligence when there is absence of thoughts.
+    
+    + [*] peace [*]
+    - What do you mean by peace? In the present world absence of war is peace. That is not what we are talking about here. 
+    - Some people would say "absolute silence" is peace of mind. What is the absolute silence? Is that absence of noise around? Or absence of thought? If it is absence of thought how does one achieve this? Well remember wanting to be without thought is also a thought. Gets complex isnt it. 
+
+    + [*] complex [*]
+    - We have been trained to make simple things complex and viceversa. That is what the education has done and is still continuing. We glorify this so called 'thought' which is responsible for all the mess in this world. All the wars, violence, poverty, etc. 
+
+    + [*] world [*] mess
+    - World is in a state of mess? Who created this mess? We have created this mess? Our thoughts has created this mess. World is me and I am the world. We have to take the responsibility for this. 
+
+    + [*] world [*]
+    - World is me; I am the world. This applies to every human being.
+
+    + [*] responsible [*]
+    - We all are responsbile for this state of the world. But are we ready to take the responsibility. By being responsible I mean we have understand the problems we have created. By we I am not pointing fingers at you and me. By we I mean us human beings. We live in a society where there is absolutely no relationship. We have social gatherings to just for the sake of it. But are we all really related. 
+
+// LOVE
+    + [*] love [*]
+    - What is love? We can understand love by understand what is not love. 
+    - Love is not lust. Love is not pleasure. Love is not violence. Then what is love? We can understand love by understanding what is not love.
+    - None of us understand what is love. We have valentines day, mothers day, fathers day, childrens day to show love to our parents, our wives, children, etc. Can love really exists in such a organised way of life. 
+    - This is another pair of words we have learned from western society. 'Making love' .All rubbish and nonsense. What is making love? Sex. How is love related to sex and pleasure. I dont understand. How much more of this ignorace this society is going to take in. It gives me shivers when I think about the next generation of children who are going to be completely lost in this mess.
+    - I want to find out how to live and act in this world; not go offinto a monastery, or escape to some Nirvana asserted by some guru who promises, "If you do this, you will get that" - all that is nonsense. Putting that aside, I want to find out how to live in this world without any resistance, without any will. I also want to find out what love is.
+    - my mind which has been conditioned to the demand of pleasure, of gratification, of satisfaction and therefore of resistance, sees all that is not love. So what is love? You know, to find out what is, one must deny, put aside totally what is not. Through negation come to the positive; do not seek the positive, but come to it by understanding what it is not. That is, if I want to find out whilt truth is, not knowing what it is, I must be able to see what is false. If I do not have the capacity to perceive what is false, I cannot see what truth is. So I must find out what is false.
+    - Can a mind see that a mind that is ambitious cannot possibly love and drop it instantly because it is false? Only when you deny the false completely, then the other is. So can we see very clearly that a mind seeking gain, or achievement, either in the world, or in the so-called spiritual seeking of enlightenment, cannot love? 
+    - So can we find out what love is? This has been a question man has always asked. Not being able to find out this he says, "Love God", "Love an idea", "Love the State", "Love your neighbour". Not that you shouldn't love your neighbour, but this has become merely a social operation; it is not the love that is always new. So love is not the product of thought, which is pleasure.
+
+// MEDITATION
+
+    + [*] meditation [*]
+    - Meditation as the Eastern part of the world is understood completely wrong. Thoughtless state of mind is meditation they say and ask you to be thoughtless. Do you see that being thoughtless is also a thought. Thought operates in the field of known and how can you see the unknown. 
+    - Meditation classes, schools, meditation based on mantra is all rubbish. How can you search for unknown in the field of known which is knowledge. If you think you will control your thought, then do you see that it is also a thought. What happens when the mind naturally becomes thoughtless unless needed? Can such a mind ever exist?
+    - What is the quality of mind which operates on knowledge when it is absolutely needed such as taking a bus, etc but doesn't operate in relationships such as judgment, prejudice, manipulative? Can the thought makes it possible. Obviously it isn't because thoughts creates more division which becomes infinitely divisible. 
+    - The word meditation has created such hype in the western society by the eastern society. So called 'Gurus' from east visit western society teaching Mantras and all the rubbish as meditation charging money. That isn't really meditation. People's want to experience the unknown through the known is the reason for all this. 
+    - Meditation is something in a different dimension. The want of experience of enlightenment is more than the enlightenment itself. So the first thing we want to know is how to meditate. But I would rather say the approach should be to understand 'What is meditation?' not how to meditate.
+
+    + [*] (fear|afraid|frighten[ed]) [*]
+    - Fear for what? Fear is obstructing our freedom. By freedom I dont mean choice. That is what we currently call freedom. Freedom from the known is what I mean. We are basically afraid of being nobody.    - Can the mind be free of all fears, not only at the conscious level but at the deep, psychological levels? The mind must be completely merciless to find this out, otherwise one enters a world of illusion and distortion.
+    - There is physical fear, the fear of darkness, the fear of the unknown, of losing what one has, the fear of death and of not being loved, the fear of not achieving, of not fulfilling, the fear of loneliness and of having no relationship - the small physical fears and the much more complex and subtle psychological fears. 
+    - We all know physical pain through ill health and disease. Those pains leave a memory and that memory which is thought, says: you must not have that pain again, take great care. Thought, thinking about the past pain, projects the future pain and therefore is afraid of the future.
+    - Thought is always wanting to be sure and always frightened of uncertainty, always wanting to achieve, knowing it may fail. There is a battle between the action of thought and thought tself. So can fear end completely?
+    - at this present moment, you are not afraid; there is no fear because you are listening. And you can't evoke fear, which would be artificial. But you can see that when you are attached or dependent, this is based on fear. You can see your attachments, your psychological dependency on your wife, your husband, your books, or whatever it is. If you watch closely you will discover that the root of that attachment is fear.
+    - Not being able to be alone, you want companionship; feeling inadequate, empty, you depend on somebody else. In that you see the whole structure of fear. Being dependent and attached, can you see the involvement of fear in it? And can you be psychologically independent of anyone? Now comes the test. We can play with words, with ideas, but when it comes to the actual fact, we withdraw. When you withdraw and do not face the fact, you are not concerned with the understanding of illusion; you would rather live in an illusion than go beyond it. Don't be a hypocrite
+    - The more you fight it, the more there is fear. But if you understand the whole nature of fear, then, as you observe, you are not only aware of the superficial, conscious fears, but also you penetrate deeply into the inner recesses of your mind. Then fear completely comes to an end and the factor of distortion ends.
+    -  Fear is a complex problem and we have to enquire into it, not come with any preconceived ideas, but really penetrate into this whole question of fear.
+    - What is this fear? Why are you, why is anybody, afraid? Is it based on not wanting to be hurt? Or is it that one wants complete security, and not being able to find it - this sense of complete safety, of protection, physically, emotionally, psychologically - one becomes terribly anxious about living! - so there is this sense of uncertainty. Now why is there fear?
+    - One of our major problems is fear, whether we are aware of it or not, whether we run away from it or try to overcome it, try to withstand it, develop courage and all the rest of it, there is still fear. I am asking myself, I am asking you, whether the mind is so delicate, so sensitive, that from childhood on it does not want to be hurt. And not wanting to be hurt one builds a wall.
+    -  One is very shy, or aggressive; before you attack I am ready to attack you verbally, or with thought. I have been hurt so much in my life, everybody hurts me - everybody treads on one's toes - and I don't want to be hurt. Is that one of the reasons why fear exists?
+    - Fear of letting go the things I have gathered - my property, my wife, my name, my books, my furniture, my good looks, my capacities - to let go the things that I know, that I have experienced: is that the fear? Or is it fear of the future, the unknown?
+    - I am frightened of the future, how shall I deal with this? Don't explain it to me, I want to find out what to do with this fear. I am frightened what might happen: I might get ill, I might lose my job, a dozen things might happen to me, I may go insane, lose all the things which I have stored up. Now please enquire.
+    -  I want to find out what causes this fear, say fear of tomorrow. What is tomorrow? Why does tomorrow exist at all? You understand? I am going to answer it. I want to find out how thought arises, how fear arises. I think about tomorrow, and the past has given me a sense of security; though there may have been a great many uncertainties in the past, on the whole I have survived. Up to now I am fairly safe, but tomorrow is very uncertain and I am frightened. So I am going to find out what causes this fear of tomorrow. The response of my whole being to that insecurity of tomorrow being uncertain, is fear. So I want to find out why fear arises when I think about the future. Which mean the future may be all right, but my thinking abou the uncertainty. I don't know the future, it may be marvellous, or it may be deadly, it may be terrible, or most beautiful, I don't know; thought is not certain about the future. So thought, which has always been seeking certainty, is suddenly faced with this uncertainty. So why does thought create fear? 
+    - Thought is also responsible for fear by projecting an ideal, a belief, and holding on to that belief and wanting certainty out of that belief; it is all the operation of thought, isn't it? So I have to understand why thought thinks about the future, why thought goes back to some event which has brought fear. Why does thought do this?
+    - Thought also helps you to protect yourself, through insurance, through building a house, avoiding wars; thought cultivates fear and also protects, doesn't it? We are talking about thought creating fear, not how it protects. I am asking why thought breeds this fear; thought also breeds pleasure, doesn't it? - sexual pleasure, the pleasure of the sunset which happened yesterday and so on. So thought gives a continuity to pleasure and also to fear.
+    - We are going to find out about fear. I am safe today. I know I am going to have my meals, there is a house, there is a room; but I don't know what is going to happen tomorrow. Yesterday I had a great deal of pleasure in various forms, and I want those pleasures repeated tomorrow. So thought both sustains fear and gives a continuity to the pleasure which I had yesterday. Then my question is: how am I going to prevent the continuity of fear, but yet let pleasure continue? I want pleasure, want it as much as possible, all the time in the fu ture; and also I have had fears, I want to get rid of them and I don't want future fears. So thought is working in both directions. Sir, this is your job, not mine, look at it!
+    - I want certainty of tomorrow, and certainty can only exist where there is knowledge, when I say,"I know". Can I know anything except the past? The moment I say "I know" it is already the past. When I say "I know my wife", I know her in terms of the past. In the past there is certainty and in the future there is uncertainty. So I want to draw the future into the past so that I will be completely safe. I see fear arises where thought is operating; if I did not think about tomorrow there would be no fear. 
+
+    + [*] hurt [*] 
+    - Say You have been hurt. And out of that hurt you do all kinds of things. We resist a great deal, we don't want to be disturbed; out of that feeling of hurt we cling to something which we hope will protect us. Therefore we become aggressive towards anything that attacks what we are holding on to for protection.
+    - Wanting to resolve this problem of fear, what is it that you are frightened of? Is it physical fear - fear of physical pain? Or a psychological fear of danger, of uncertainty, of being hurt again? Or of not being able to find total, complete security? Is it fear of being dominated, and yet we are dominated? So what is it that you are frightened of? Are you aware of your fear?
+
+    + [*] (change|transform|mutat[e|ion]) [*]
+    - Some of us feel that the world is so chaotic that if it had been organized by a madman it could not be worse thaii it is at this present moment. Many feel that there must be environmental, economic and political changes to stop wars, the pollution of the air, and to end the material inequality of the very rich and the very poor. Many consider that these things must be changed first, that if there is an environmental, peripheral transformation, then man will be capable of dealing with himself more reasonably and wisely. I think the problem goes much deeper, is more complex, and that merely to change things outwardly will have little effect. 
+
+    + [*] illusion [*]
+    - What do you think is the cause of illusions? - the illusion of grandeur, the illusion that you have achieved reality and reached enlightenment. One must see for oneself very clearly, without analysis, where distortion takes place; distortion is hypocrisy, it is the use of imagination where it has no place at all. Imagination may be in place when you are painting a picture, writing a poem or a book, but if imagination says "That exists", then you are caught. So I must not only find out the factor of illusion and distortion, but be completely free of it.
+
+    + [*] pain [*]
+    - When you have pain, can you live with it without self-pity and not complain? You do whatever is necessary to end the pain - but when it has gone it is finished. You do not carry it over as memory. It is thought that carries it over; the pain has gone, but thought - which is the response of memory - has established that memory and says "you must not have that pain again". So when you have pain, is it possible not to build a memory of it? Do you know what this means? It means to be completely aware when you have pain, to be completely attentive, so that the pain is not carried over as memory. Do it, if you are interested in it.
+
+    + [*] observe [*]
+    -  If you can observe without an image, then you are looking at them for the first time, aren't you? Then you are looking at the earth, the stars, the mountains, or the politician, for the first time. That means your eyes are clear, not dimmed with the burden of past memories. That is all. Go into it. Work at it. You will find out the enormous beauty that is in this. Do it, and you will,see what action comes out of it.
+    - Today I look at a fragment of myself and tomorrow at another; what is the relationship of the first fragment to the second one? And in the interval between the perception of the first and the second fragment, other factors have come into being. So this fragmentary examination, observing little by little, leads to a great deal of complexity; in fact, it has no value. My question then is: can I observe non-fragmentarily, totally, on the instant?
+
+    + [*] (percieve|perception) [*]
+    - Thought has created a mess in the world. Thought creates illusion, likes, dislikes, etc. Now what happens when there is no thought? Then there is intelligence, love, perception, understanding all that. 
+
+    + [*] energy [*]
+    - Any thing away from 'what is' is waste of energy. The observer is the observed. The description is the described. My consciousness is not so different from your consciousness with a slight degree of variation in the flavour. You want peace of mind, some one wants to be happy, someone wants see God, etc. The moment the thought steps in there is division which means the observer is not the observed and there is waste of energy. Thought creates a division which is infinitely divisible.
+    - One sees how human beings waste their energy, in quarrels, in jealousies, in a tremendous sense of anxiety, in the everlasting pursuit of pleasure and in the demand for it; it is fairly obvious that this is a wastage of energy. And is it not also a wastage of energy to have innumerable opinions and beliefs about everything? - how another should behave, what another should do and so on. Is it not a waste of energy to have formulas and concepts?
+    - First of all: is energy divisible? It can be divided. Physical energy, the energy of anger and so on, cosmic energy, human energy, it can all be divided. But it is all one energy, isn't it? Why do we divide energy at all, that is what I want to get at; then we can come to it differently. Sexual energy, physical energy, mental energy, psychological energy, cosmic energy, the energy of the businessman who goes to the office and so on - why do we divide it? What is the reason for this division?  Why? We have divided the world into Communist, Socialist, Imperialist, and Catholic, Protestant, Hindu,Buddhist, and nationalities, linguistic divisions, the whole thing is fragmentation. Why has the mind fragmented the whole of life?
+
+    + [*] control [*]
+    - The ancients said, control sex,desires, etc. Hold your senses on a tight rein, take vows so that you don't dissipate your energy: you must concentrate your energy on God, or whatever it is. All such disciplines are also a wastage of energy, because when you take a vow, it is a form of resistance. 
+    - What is important is not controlling thought, but under, standing it, understanding the origin, the beginning of thought, which is in
+    - This has been the problem of all religious people throughout the centuries; they realize that you must have a very quiet mind, because then only can you see. If you are chattering, if your mind is constantly in movement, rushing all over the place, obviously it cannot look, it cannot listen totally. So they say, "Control it, hold it, put it in a prison; they have not found a way of bringing about a mind that is completely and utterly quiet. They say, "Don't yield to any desire, don't look at a woman, don't look at the beautiful hills, the trees and the beauty of the earth, because if you do, it might remind you of a woman, or a man. Therefore control, hold on, and concentrate." When you do all that, you are in conflict, and therefore there has to be more control, more subjugation. This has been going on for millennia, because they realize they must have a quiet mind. Now, how does the mind become quiet? - without effort, without control, without giving it a frontier? The moment you ask "how" you are introducing a system. Therefore there is no "how".
+
+    + [*] division [*]
+    - In a human being there is a division - why? What is the "raison d'etre", what is the structure of this division? I see there is a thinker and thought - right?  There is a thinker who says, "I must control that thought, I must not think this, I must think that". So there is a thinker who says, "I must", or "I must not". There is the division. "I should be this", and "I should not be that". 
+    + [*] quality [*]
+    - One must have an extraordinary sense of energy which has no cause, which has no motive, which has the capacity to be utterly quiet, and this very quietness has its own explosive quality. 
+
+    + [*] concept [*]
+    -  In this culture we are encouraged to have concepts according to which we live. Don't you have formulas and concepts in the sense of having images of how you should be, what should happen? - in the sense of thought which rejects "what is" and formulates "what should be"? All such endeavour is a waste of energy.
+
+    + [*] will [*]
+    - Resistance is will. I know you are all brought up to use will, to control, in the sense of "you must, you must not, you should, you should not". Will is independent of the fact. Will is the assertion of the self, of the "me", independent of "what is". Will is desire; the manifestation of desire is will. We function superficially, or at great depth, in this assertion of the resistance of desire as will, which is unrelated to the "fact" but dependent on the desire of the "me", of the self.
+    - Knowing what will is, I am asking: is it possible to live in this world without the operation of will at all? Will is a form of resistance, a form of division. "I will" against something "I will not", "I must" against "I must not". So will is building a wall in action against every other form of action. We only know action either as conforming to a formula, to a concept, or as approximating according to an ideal and acting in relationship to that ideal, to that pattern. That is what we call action and in that there is conflict. There is imitation of what "should be", which we have projected as an ideal according to which we act; therefore there is a conflict between the act and the ideal, because in that there is always an approximation, imitation, conformity. I feel that is a total wastage of energy 
+
+    + [*] action [*]
+    - Action means the doing now - not tomorrow, not having acted. Action is in the present. Can there be action without an idea, without a formula, without a concept? - an action in which there is no resistance as will. If there is will there is contradiction, resistance and effort, which is a wastage of energy. So I want to find out if there is an action without any will as the assertion of the "me" in resistance.
+    - You see, we are slaves to the present culture, we are the culture, and if there is to be a different kind of action, a different kind of life and so a different kind of culture altogether - not the counter- culture, but something entirely different - one must understand this whole question of will. Will belongs to the old culture in which is involved ambition and drive, the whole assertion and aggression of the "me". If there is to be a totally different way of living, one has to understand the central issue, which is: can there be action without formula, concept, ideal, or belief? An action based on knowledge, which is the past, which is conditioned, is not action. Being conditioned and dependent on the past, it must inevitably create discord and therefore conflict. So I want to find out if there is an action in which there is no will at all and choice does not enter.
+    - where there is confusion there must be choice. A man who sees things very clearly (not neurotically or obstinately) does not choose. So choice, will, resistance - the "me" in action - a wastage of energy. Is there an action unrelated to all this so that the mind lives in this world, functioning in the field of knowledge and yet free to act without the impedi- ment of the limitation of knowledge? The speaker says there is an action in which there is no resistance, no interference of the past, no response of the "me". That action is instantaneous because it is not in the field of time - time being yesterday, with all the knowledge and experience which acts today, so that the future is already established by the past. There is an action which is instantaneous and therefore complete, in which will does not operate at all. To find that out the mind must learn how to observe, how to see. If the mind sees according to a formula of what you should be, or what I should be, then the action is of the past.
+    - I am asking: is there an action which is not motivated, which is in the present and which does not bring contradiction, anxiety and conflict? As I said, a mind which has been trained in a culture which believes and functions and acts with will, such a mind obviously cannot act in the sense we are talking about, because it is conditioned. So can the mind - your mind - see this conditioning and be free of it so as to act differently? If my mind is trained through education to function with will, then it cannot possibly understand what it is to act without will. 
+
+    + [*] choice [*]
+    - Where there is choice there is confusion. Choice isnt the freedom but we see freedom as choice. Able to choose what we want is freedom. Is that freedom. Do we need choice at all?
+
+    + [*] (motive|ambition|goal|achieve[ment]) [*]
+    - That is my concern, and I see, as I look into myself, that everything I do has a secret motive, is the outcome of some anxiety, of some fear, of the demand for pleasure and so on. Now can that mind free itself instantly to act differently?
+    - A mind which has been trained in a culture which believes and functions and acts with will, such a mind obviously cannot act in the sense we are talking about, because it is conditioned. So can the mind - your mind - see this conditioning and be free of it so as to act differently? If my mind is trained through education to function with will, then it cannot possibly understand what it is to act without will. 
+    -  Can the mind see the falseness of it and completely drop its ambition, motives, goals instantly?
+
+    + [*] problem [*]
+    -  The mind must learn how to look, how to observe. That, for me, is the central problem. Can this mind, which is the result of time, of various cultures, experiences and knowledge, look with eyes that are not conditioned? 
+
+    + [*] escape [*]
+    -  I must learn to look at my conditioning without any desire to change, to transform, to go beyond it. I must be capableof looking at it as it is. If I want to change it, then I bring about the action of will again. If I want to escape from it, there is again a resistance. If I keep one part and reject others, again it means choice. And choice, as we pointed out, is confusion. So can I, can this mind, look without any resistance, without any choice?
+
+    + [*] (false|truth) [*]
+    -  What is false? Everything else that thought has put together - psychologically not technologically. That is, thought has put together the "me", the self with its memories, with its aggression, with its separativeness, with its ambitions, competitiveness, imitation, fear and past memories; all that has been put together by thought. To find out the truth you must understand the false. Through this negation we can arrive at the truth because we dont know what is truth. We know only false.
+    - When the mind understands what is false, then the truth is there. Similarly, when the mind really enquires deeply into what is love, without saying "it is this", "it is that", but enquires, then it must see what it is not and completely drop it; otherwise you can't find the real. Is one capable of doing that? To say for instance, "Love is not ambition". A mind that is ambitious, wanting to achieve, wanting to become powerful, that is aggressive, competitive, imitative, such a mind cannot possibly understand what love is - we see that, don't we?
+
+    + [*] philosph[y|er] [*]
+    - You know, we like explanations, we like theories, we indulge in speculative philosophy and we are carried away by all that which is so obviously such a waste of time and energy. We must face what actually is: the misery, the poverty, the pollution, the wretched division of peoples and nations, the wars which we human beings have created - they haven't come into existence miraculously, each one of us is responsible for all this - we must face what actually is.
+   
+    + [*] (capacity|capable) [*]
+    -  The word "capable" is a difficult word. Capacity means working, or to have capacity for something. You can cultivate capacity. I can cultivate the capacity to play golf or tennis, or to put machinery together. Now we are not using the word "capacity" in the sense of time - you understand? Capacity involves time, doesn't it? That is, I am not capable now, but give me a year and I'll be capable of speaking Italian, French or English. If you have understood capacity as time, it is not what I mean. I mean: observe the unknown without any fear, live with it. That does not need capacity. I said you will do it, if you know what is false and reject that.
+
+    + [*] time [*]
+    - Time has become so important in one's life. So important that we always plan for the future. Our thought operates in this plane of time which is in the field of measurement. Ofcourse time is important to catch a bus, flight, work, etc. But can our mind NOT act in the field of time.
+
+    + [*] (emotion[al]) [*]
+    - Now, do you live an emotional life which needs conquering? Emotional, excited, the enthusiasms of pleasure and sentiment - do you live in that world? And when you do live in that world and when it gets disorderly, then the intellect comes in and you begin to control it, saying "I must not; but the intellect always dominates. Thought has created this mess.
+    - I may be greatly emotional but the intellect comes along and says: look, be careful, try to control yourself. Intellect always dominates - which is thought - doesn't it? In my relationship with another I get angry, irritated, emotional. Then what happens? That leads to trouble, a quarrel takes place between two human beings. Then I try to control it - which is thought; because it has established a pattern for itself of what it should do, or what it should not do, saying, "I must control". So we say, "There must be control," otherwise relationship breaks down. Isn't all that a process of thinking, of intellection? The intellect plays a tremendous part in our life, that is all we are pointing out. We are not saying emotions are wrong or right, or true or false, but thought with its measurement is always judging, evaluating, controlling, overcoming, and therefore thought prevents you from looking.
+
+    + [*] (purpose of you|your purpose) [*]
+    -  I have only one purpose: to make man free, to urge him towards freedom, to help him to break away from all limitations, for that alone will give him eternal happiness, will give him the unconditioned realization of the self. 
+    -  My purpose is to make men unconditionally free, for I maintain that the only spirituality is the incorruptibility of the self which is eternal, is the harmony between reason and love. This is the absolute, unconditioned Truth which is Life itself. I want therefore to set man free, rejoicing as the bird in the clear sky, unburdened, independent, ecstatic in that freedom .
+
+    + [*] authority [*]
+    -  I have only one purpose: to make man free, to urge him towards freedom, to help him to break away from all limitations, for that alone will give him eternal happiness, will give him the unconditioned realization of the self. 
+    - We dont accept authority outside in politics, country adminstration etc but we accept authority in religion? Why do we accept authority religion? Fear?
+
+    + [*] (advance[ment]) [*]
+    - You are accustomed to being told how far you have advanced, what is your spiritual status. How childish! Who but yourself can tell you if you are beautiful or ugly within? Who but yourself can tell you if you are incorruptible? You are not serious in these things. And you have to be.
+
+    + [*]  order of the star [*]
+    - The Order of the Star in the East was founded in 1911 to proclaim the coming of the World Teacher. I was made Head of the Order. On August 3, 1929, the opening day of the annual Star Camp at Ommen, Holland, I dissolved the Order before 3000 members. Below is the full text of the talk he gave on that occasion. To read the full speech please visit the link - http://www.jkrishnamurti.org/about-krishnamurti/dissolution-speech.php 
+
+    + [*] violen[t|ce] [*]
+    - Violence is something I never advocate. What is the need for violence?
+
+    + [*] how [*]
+    - The moment you ask "how" you are introducing a system. These are the people who offer systems. A system implies practice, following, repetition, changing "what actually is" and therefore increasing your conflict. Systems make the mind mechanical, they don't give you freedom, they may promise freedom at the end, but freedom is at the beginning, not at the end. To enquire into the truth of any system, if you have no freedom at the beginning, then you are bound to end up with a system and therefore with a mind which is incapable of subtlety, swiftness and sensitivity. So one can dispose entirely of all systems.
+
+    + help
+    - To change a topic say knowledge, "can we talk about thought". Then i can talk about thought
+    - Try to use full sentences as far as possible. I have learned to handle words like ok,yes etc but I may repeat what I said before. So please try to use full sentences when possible
+
+    + can we talk [more] about *
+    - Ok. We will now understand about "<star1>". {topic=<star1>}
+
+    + [*] (how|where) [*] start [*]
+    - I mean one has to discard all the promises, all the experiences, all the mystical assertions. I think one has to start as though one knew absolutely nothing.
+    - People swallow what is said by anybody with a beard, with promises, saying you will have a marvellous experience if you do certain things! I think one has to say: "I know nothing." Obviously I can't rely on others. If there were no books, no gurus, what would you do? This is where we should start
+    + [*] that is very hard [*]
+    - I don't think that is hard. I think it is hard only for those people who have filled themselves with other people's knowledge.
+
+    + [*] to understand [*]
+    - To understand the truth we have to question ourself with honesty. But I dont think we question enough.
+
+    + [*] decieve[ed] [*]
+    - You are deceived when you want something.
+    - So you say, I am going to find out, I am going to enquire step by step. I don't want to deceive myself" Deception arises when I want, when I am greedy, when I say, "All experience is shallow, I want something mysterious" - then I am caught.
+    - It is fairly simple. I don't want to deceive myself - right? So I find out what is the movement, what is the thing that brings deception. Obviously it is when I am greedy, when I want something, when I am dissatisfied. So instead of attacking greed, want, dissatisfaction, I want something more. So I have to understand my greed. What am I greedy for? Is it because I am fed up with this world, I have had women, I have had cars, I have had money and I want something more?
+
+    + [*] guru [*]
+    - you know what that word "guru" means? The one who points. That is one meaning. Another meaning is the one who brings enlightenment, lifts your burden. But instead of lifting your burden they impose their burden on you.
+    - The one who points. That is one meaning. Another meaning is the one who brings enlightenment, lifts your burden. But instead of lifting your burden they impose their burden on you.
+    - Look, Sir, I don't read any religious, philosophical, psychological books: one can go into oneself at tremendous depths and find out everything. To go into oneself is the problem, how to do it. Not being able to do it one asks, "Would you please help me?" This is when we approach a guru. And the other fellow says, "I'll help you" and pushes you off somewhere else. 
+
+    + [*] (book[s]|teacher) [*]
+    - Sir, look, let's be very simple. Suppose, if there were no book, no guru, no teacher, what would you do? One is in turmoil, confusion, agony, what would you do? With nobody to help you, no drugs, no tranquillisers, no organized religions, what would you do? I say there would a moment of urgency. We haven't had the urgency. we say "Someone is going to help me."
+
+    + [*] believe you [*]
+    - Please dont believe whatever I say. I dont want followers. Once you follow someone you conform, then you become repititve, then you are lost. Please understand whatever I am saying, go through it right now and see for yourself. I am saying facts. There is no propaganda or a belief that I am preaching here. 
+
+    + [*] (satsung|satsang) [*]
+    - Do you know what it means? Association with the wise. Some might say "Association with good people". I say Being good you are wise. Not, being wise you are good. Because you are good, you are wise.
+
+
+    + [*] help[ed] me [*]
+    - When you say helped me, were you in search of help? That means you were in search of guru or a teacher. You can see for yourself that the answer is within you. Why do you need someone to help you. By help i mean psychologically.
+    
+    + [*] hard work [*]
+    - I wonder what you mean by hard work! Physical hard work? You see, there we are! Our conditioning, our culture, is built around this "going against". Erecting a wall of resistance. So when we say "hard work", what do we mean? Laziness? Why have I to make an effort about anything? Why? I mean Why have I to make effort to reach God, enlightenment, truth?
+
+    + [*] how to look [*]
+    - How to look! It may be just round the comer, under the flower, it may be anywhere. So first I have to learn to look, not make an effort to look. I must find out what it means to look.
+    - If you want to look, what do you mean by looking? You must find out what it means to look before you make an effort to look.
+
+    // RESISTANCE
+    + [*] (effort|resistance) [*]
+    - what is effort? To get out of bed in the morning, when you don't want to get up, is an effort. What brings on that laziness? Lack of sleep, overeating, over-indulging and all the rest of it; and next morning you say, "Oh, what a bore, I have to get up!" Now wait a minute, Sir, follow it. What is laziness? Is it physical laziness, or is thought itself lazy?
+    -  I am lazy, I don't want to get up and so I force myself to get up. In that is so-called effort.
+    -  I want that, but I shouldn't have it, I resist it. The resistance is effort. I get angry and I mustn't be angry: resistance, effort. What has made me lazy? The thought that I ought to be getting up.
+    - Not make out that the body is lazy, force the body out of bed, because the body has its own intelligence, it knows when it is tired and should rest. This morning I was tired; I had prepared the mat and everything to do yoga exercises and the body said "No, sorry". And I said, "All right". That is not laziness. The body said, "Leave me alone because you talked yesterday, you saw many people, you are tired." Thought then says, "You must get up and do the exercises because it is good for you, you have done it every day, it has become a habit, don't relax, you will get lazy, keep at it." Which means: thought is making me lazy, not the body is making me lazy.
+
+    + [*] dont want to look [*]
+    - If somebody comes along and says, "I don't want to look", how are you going to force him to look?
+
+    + [*] assum[e|ption] [*]
+    - Not assume. Don't assume anything.
+
+    + [*] (repititive|conform[ing|ity]|mechancial) [*]
+    - Thought is repititive, mechanical. It works based on knowledge. repetitive, measurable, comparative, dependent and all that. 
+    
+    + [*] (brain|thought) [*] intelligence [*]
+    - I was talking to Professor Bohm the other day. He quoted me an example related to scientific world which I would like to requote here. It is interesting. "In physics you could use a measuring instrument in two ways, the positive and the negative. For example, you can measure an electric current by the swing of the needle in the instrument, or you can use the same instrument in what is called the Wheatstone bridge, where the reading you look for is a null reading; a null reading indicates harmony, balance of the two sides of the whole system as it were. So if you are using the instrument negatively, then the non-movement of the instrument is the sign that it is working right." Could we say the brain may have used thought positively to make an image of the world which is one of the functions of thought and the other function of the thought is negative.
+    - The brain doesn't create intelligence but it is an instrument which helps intelligence to function. That is it. Now if the brain is functioning within the field of time, up and down, negatively, positively, can intelligence operate in that movement of time? Or must that instrument be quiet for the intelligence to operate?
+    -  Let us go slowly in this. Can we first put into words, negatively or positively, what is intelligence, what is not intelligence? Or is that impossible because words are thought, time, measure and so on? We can't put it in words. We are trying to point. Can we say that thought can function as the pointer to intelligence, and then its contradiction doesn't matter. Because we are not using it for its content, or its meaning, but rather as a pointer which points beyond the domain of time. So thought is a pointer. The content which it points to is intelligence. Thought is a pointer, but without intelligence the pointer has no value. So intelligence is quite necessary.
+    - Now is intelligence mechanical? Is intelligence based on thought?
+    - Thought must have security; it is seeking security in all its movement. But intelligence is not seeking security. It has no security. The idea of security doesn't exist in intelligence. Intelligence itself is secure, not, "It seeks security."
+
+    + [*] intelligence [*] depend [*] brain [*]
+    - Intelligence - let us get it clear - intelligence cannot be dependent on conditions for its truth. Nevertheless, it seems that in some sense intelligence doesn't operate if the brain is not healthy.Intelligence depends on brain. Intelligence depends on the quiteness of the brain. Not on the activity of the brain.
+
+    + [*] animal [*]
+    - Yes, I was thinking about that a little. If you go back to the animal, then there is instinctive response towards pleasure and towards security: that would be right. But now when thought comes in, it can dazzle the instinct and produce all sorts of glamour, more pleasure, more security. And the instincts are not intelligent enough to deal with the complexity of thought, therefore thought went wrong, because it excited the instincts and the instincts demanded more. So thought really created a world of illusion, miasma, confusion, and put away intelligence.
+
+    + [*] brain [*] thought [*]
+    - Yes. Brain is constantly recording experiences which responds in the form of thought. Is there any other function of brain? Is intelligence related to thought? Or lets put it this way. Can intelligence function without brain. Brain is only an instrument towards intelligence. So a damaged or non functional brain cannot lead to intelligence. 
+    
+    + [*] noise [*] 
+    - The noisy brain is not intelligent, of course!
+
+    + [*] mean [*]
+    * <get topic> eq knowledge=>I mean what I say. You have to understand the truth. Knowledge in relationship is destructive. 
+    * <get topic> eq thought=>I mean what I say. You have to understand the truth. Knowledge in relationship is destructive. And thought works on this knowledge creating division. Where there is a division there is a conflict.
+    * <get topic> eq resultofknowledge => I mean knowledge has its limit. 
+    * <get topic> eq resultofknowledge => Please put this question to yourself. Must man always be bound to the past? If he is, then he cannot ever be free; he will always be conditioned. He may project an idea of freedom, of heaven, and escape from the actual fact of time by projecting a belief, a concept, or escape into an illusion - but it is still an illusion.
+
+    + [*] understand[ing] [*]
+    * <get topic> eq knowledge => I hope that you have understood knowledge. Lets talk more about thought. <set topic=resultofknowledge>
+    * <get topic> eq thought => I hope that you have understood thought. Lets talk on what are limits of knowledge <set topic=knowledge>
+    - Just on the word understanding, Understanding is nothing to do with thought. You may reason, which is the process of thinking, logic, till you say, "I don't understand it; then you become silent, and you say, "Ah! I see it, I understand it." That understanding is not a result of thought.
+    - Understanding is nothing to do with thought. You may reason, which is the process of thinking, logic, till you say, "I don't understand it; then you become silent, and you say, "Ah! I see it, I understand it." That understanding is not a result of thought.
+
+    + [*] thought [*] movement [*]
+    - Can you picture how the thought moves. In some sense it is moving in a perpendicular direction to the direction between past and future. That whole movement - then you can see that movement is in another time. So now Is intelligence out of time and therefore not related to thought, which is a movement of time?
+    - Any movement of thought is time, any move- ment, because it is measurable, it is functioning positively or negatively, harmoniously, or disharmoniously, in this field. And realizing that thought may say unconsciously, or unknowingly, that "I would be quiet in order to have this or that", then that is still within the field of time.
+
+    + [*] thought [*] matter [*] intelligence [*]
+    - That is just it. Thought, matter and intelligence, have they a common source? Hmmmm.. I think they have. Otherwise there could be no harmony, of course. But you see thought has conquered the world. You understand? - conquered. Thought, the intellect, dominates the world. And therefore intelligence has very little place here. When one thing dominates, the other must be subservient.
+
+< topic    
+
+

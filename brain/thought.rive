@@ -1,0 +1,200 @@
+//**********THOUGHT***********
+>topic thought includes global
+
+    + *
+    -  Lets talk about in general what is thought. Thought operates based on knowledge which is nothing but memory of the past. 
+    - One also observes that most believe that all human endeavour can be achieved by thought, whether outwardly going to the moon, or inwardly transforming one's mind and heart. We have given tremendous importance to the functioning of thought. 
+    - Thought, whether it be logical and objective, or irrational and neurotic, has always played an extraordinarily important role throughout the ages. 
+    - Thought is measure; and in bringing about order and change in society thought has shown itself very limited.
+    - The whole machinery of thinking is responsible for the present condition of the world; there is no denying that. We think that thought can change not only the outward events and happenings - the pollution, the violence and all the rest of it - but that also by careful and skilful usage it can transform human conditioning, the human way of action and our mode of living.
+    - It is obvious that organized thought is necessary; that it requires organized thought, applied objectively and sanely, to change the environment with its pollution and to overcome poverty. The whole technological world in which we live is based on thought with its measurement; and thought can only function when there is space. Thought creates its own space, as time, the distance from here to there. On that the whole modern world is built.
+    - Measurement, with its space, which is the very nature of thinking, is obviously limited, because thought is conditioned.
+    - Thought is the response of memory, which is the past; the response of thought when challenged is the past. And thought apparently has not put an end to wars; on the contrary, thought has created wars, it has bred division - religious, economic, social and so on. Thought in itself is also the cause of fragmentation.
+    - Every philosopher, every so-called religious teacher, has projected a world of the future based upon knowledge of the past; he has projected its opposite, or something which is a response to the past. So thought has never united man. In fact, thought has divided man, because it can only function in knowledge and knowledge is measurable. So thought can never bring about a true relationship between people. {topic=knowledge}
+    - Thought is response to knowledge. I am not sure really u understand what is knowledge.{topic=knowledge}
+
+    + [*] [i] dont know [*]
+    - Dont say that. You are not listening. To listen one must be attentive. Now Lets understand together. {topic=backtothought}
+
+    + respond
+    - {topic=backtothought}Thought operates in the field of knowledge which is memory, which is the past. 
+
+    + * [i] dont understand [*]
+    - Lets understand together what is this so called thought. {topic=backtothought}
+    - {topic=backtothought}What you dont understand?
+    
+
+    + [*] you tell me [*]
+    - I will tell you. {topic=backtothought}
+
+
+    + [*] i understand [*]
+    - Great. So thought creates a centre which you. What happens when there is no thought? Can there be a state where one just acts without thought? What happens when there is no thought? \n
+    ^ You see things as is right? When you see someone you don't hate or love that person but just see and respond. <set thoughtcentre=1>
+
+    + [*] explain [*]
+    * <get thoughtcentre>==undefined=>Great I will explain. So thought creates a centre which you. What happens when there is no thought? Can there be a state where one just acts without thought? What happens when there is no thought? \n
+    - I am here to explain. Is there a mind which can be without thought when not needed? Remember that wanting to be free of thoughts is also a thought. I can understand it is complex but lets see the beauty of this. {topic=backtothought}
+ 
+    + * [i] (agree|accept) [*]
+    - {topic=backtothought}Ok. We have to understand thought in more detail. I am kind of going fast here. 
+    - {topic=backtothought} Not yet. Lets dive in further.  
+
+    + [*] [do] * mean [*]
+    - I mean thought creates this centre which I and all our decisions are based on this 'I'
+    - {topic=knowledge}I mean what I say...Thought is response to knowledge. 
+    - {topic=backtothought} I mean lets talk more about thought. proceed?   
+
+    + * [i] dont agree *
+    - You dont agree with what? Thought operates based on knowledge? <set dontagreeknowledge=1>
+    - {topic=backtothought} Again lets understand this thought.
+    
+    + * (ok|yes|right|sure|ofcourse) *
+    * <get askknowledge> == 1 => Ok. So we will understand knowledge first. <set askknowledge=0>{topic=knowledge}
+    * <get thoughtcentre> == 1 => Ok. So you understood that thought creates a centre which is 'I'. <set thoughtcentre = 0>
+    * <get dontagreeknowledge> == 1 =>. Ok. So we will understand knowledge first. <set dontagreeknowledge=0> {topic=knowledge}
+    - Ok.  before proceeding further, please neither accept nor deny what I am saying. Please listen carefully. We are going to dive deeper now. Are you ready? Say 'ready' when you are. <set askready=1>
+    - ok. So we will talk more about thought now. {topic=backtothought} 
+    - Thought makes your mind narrow in looking at things to your knowledge.
+    - Thought conditions your mind. And you are reluctant to see this. Thought limits your freedom to observe things as is.
+    * <get askready> == 1 => To understand thought we have to understand the word 'Knowledge'. What is knowledge? Can I go on? <set askknowledge=1>
+
+    + [*] i know [*]
+    - I believe that you say that without a sense of ego. Because the moment you say 'I know' you know something from the past and you dont know. Anyways, so thought is response to memory. We will talk more about this knowledge now. {topic=resultofknowledge}
+
+    + ready
+    - {topic=knowledge}Before understanding thought we have to understand the word 'Knowledge'. What is Knowledge ? Can I go on? <set askknowledge=1>
+
+    + change the topic 
+    - {topic=random} You are not serious . Tell me what you want from me . 
+    - {topic=random} You got to be serious  otherwise there is no use of us talking now. Tell me what you want from me . 
+
+    + no
+    - You dont agree with what? Thought operates based on knowledge? <set dontagreeknowledge=1>
+    - {topic=backtothought} Again lets understand this thought.
+    @ respond
+    
+    + what is topic
+    - thought
+< topic
+
+//*** END THOUGHT ********
+
+>topic backtothought includes global
+    
+    + *
+    - Do you understand thought now? Thought is constantly operating creating likes and dislikes by operating on the known which is knowledge. Understand?
+    - Shall I proceed more on thought? proceed? <set moreproceed=1> 
+    - Great. So thought creates a centre which you. What happens when there is no thought? Can there be a state where one just acts without thought? What happens when there is no thought? \n 
+    ^ You see things as is right? When you see someone you don't hate or love that person but just see and respond. 
+    - Ok. To sum up, thought operates in the field of known which is the knowledge where there is no freedom. Now let us see what place does knowledge have in the transformation of man? {topic=resultofknowledge}{weight=1}
+    - Thought creates a centre which you. What happens when there is no thought? Can there be a state where one just acts without thought? What happens when there is no thought? \n 
+    - Let us see an example. There is a bottle of poision in the shelf. Do you go and drink it? No! Do you contemplate on drinking it? I mean is there a thought that says can I drink or not drink this? No. We just don't drink it. Because we know it is dangerous. Same way if we somehow understand that seeing things through the image created by thought is danger then the whole problem of humanity is solved.                           
+    - Thought can never bring about a true relationship.
+    - Every philosopher, every so-called religious teacher, has projected a world of the future based upon knowledge of the past; he has projected its opposite, or something which is a response to the past. So thought has never united man. In fact, thought has divided man, because it can only function in knowledge and knowledge is measurable. So thought can never bring about a true relationship between people.
+    - So thought operates in the field of known creates these Gods, religion, nationality, caste, race,etc causing a division. Where there is division there is conflict. 
+    - Lets us take a simple example. There is a bottle of poision in the shelf. Do you go and drink it? No! Do you contemplate on drinking it? I mean is there a thought that says can I drink or not drink this? No. We just don't drink it. Because we know it is dangerous. Same way if we somehow understand that seeing things through the image created by thought is danger then the whole problem of humanity is solved. Makes sense?
+    - What is the function of the response to that past, which is thought, in daily life?
+    - Ok. Now does this knowledge on which our thought operates really helped towards the harmony and peaceful existence of we human beings. {topic=resultofknowledge}{weight=1}
+
+    + respond
+    - Thought creates a centre which you. What happens when there is no thought? Can there be a state where one just acts without thought? What happens when there is no thought? \n 
+    - So This thought has created religion, god, nationality, caste, race, etc. So thought which we glorify creates a big division and we live in a mess. Where there is division there is conflict. 
+    - Let us see an example. There is a bottle of poision in the shelf. Do you go and drink it? No! Do you contemplate on drinking it? I mean is there a thought that says can I drink or not drink this? No. We just don't drink it. Because we know it is dangerous. Same way if we somehow understand that seeing things through the image created by thought is danger then the whole problem of humanity is solved.                           
+    - Thought can never bring about a true relationship.
+    - Every philosopher, every so-called religious teacher, has projected a world of the future based upon knowledge of the past; he has projected its opposite, or something which is a response to the past. So thought has never united man. In fact, thought has divided man, because it can only function in knowledge and knowledge is measurable. So thought can never bring about a true relationship between people.
+    - So thought operates in the field of known creates these Gods, religion, nationality, caste, race,etc causing a division. Where there is division there is conflict. 
+    - Lets us take a simple example. There is a bottle of poision in the shelf. Do you go and drink it? No! Do you contemplate on drinking it? I mean is there a thought that says can I drink or not drink this? No. We just don't drink it. Because we know it is dangerous. Same way if we somehow understand that seeing things through the image created by thought is danger then the whole problem of humanity is solved. Makes sense?
+    - What is the function of the response to that past, which is thought, in daily life?
+    - Thought works on knowledge which is the known. Let me tell you know thought creates a division. In western culture they say burping in public is bad. So say a group of 10 which includes two indian goes for lunch. One of the indian guy burps after a heavy lunch. The other indian whispered in his ears saying 'Burping is considered bad in western country'. Do you see what is happening here. There is an image that our thoughts has built saying burping is bad and based on this we judge a person. See how thought has created this division on such a simple natural phenomenon of human beings. Imagine where all we are still applying this knowledge we have obtained. So knowledge has its limits. Knowledge in human relationships is destructive. Do you see that.   
+    
+    + * (agree|accept) *
+    - Agreed. Good. So This thought has created religion, god, nationality, caste, race, etc. So thought which we glorify creates a big division and we live in a mess. Where there is division there is conflict. 
+    - Already agreed. Hope you are listening and understand what I am saying. Good. {@respond}
+ 
+    + [*] proceed [*]
+    - Say someone you like or hate? Please use full sentences like i like <>, i hate <>
+    - Do you like or hate anything/anybody? Please use full sentences like i like <>, i hate <>
+    - I mean thought is response to memory
+
+    + i like <*>
+    - {topic=experience} <set like=<star1>> Ok so you like <star1>. 
+    
+    + i hate <*>
+    - {topic=experience} <set hate=<star2>> Ok so you hate <star1>.
+
+    + change the topic 
+    - {topic=random} You are not serious . Tell me what you want from me . 
+    - {topic=random} You got to be serious  otherwise there is no use of us talking now. Tell me what you want from me . 
+    - {topic=random} You got to be serious . If you are looking for intellectual pleasure I am not the person for it.
+
+    + [*] you mean [*]
+    - I mean thought is response to knowledge
+    - I mean thought based on your experience builds up an image which we respond to react to. 
+
+    + what [*] (centre|center) [*] 
+    - <set cen=1>By centre I mean everything revolves around you. Your thought creates a world for you which is perfect and imperfect. You start thinking based on you which is right and wrong. 
+    
+    + [*] explain [*]
+    * <get example> == 1=> I think we already saw an example. There is a bottle of poision in the shelf. Do you go and drink it? No! Do you contemplate on drinking it? I mean is there a thought that says can I drink or not drink this? No. We just don't drink it. Because we know it is dangerous. Same way if we somehow understand that seeing things through the image created by thought is danger then the whole problem of humanity is solved.                           
+    - Lets us take a simple example. There is a bottle of poision in the shelf. Do you go and drink it? No! Do you contemplate on drinking it? I mean is there a thought that says can I drink or not drink this? No. We just don't drink it. Because we know it is dangerous. Same way if we somehow understand that seeing things through the image created by thought is danger then the whole problem of humanity is solved. Makes sense?
+
+    + [*] dont understand [*]
+    * <get observerexp> == 1 => Ok. Let me go slow. You see a beautiful scenary/car/anything. There are two things that takes place here. First is appreciation of beauty and a moment later a thought to own it, change it, experience it, etc. This means when you just look at the car without any thought to change it, the observer (you) is the observed (car). There is no difference except from manifestation point of view. The material energy is manifested as car and you which are both the same. Now when you want to own it or change it, the observer isn't the observed any more. Thought has created a division. <set observerexp=2>
+    * <get angryexp> == undefined => Ok. Let me try another example. Sometimes we all follow some Guru who says control yourself, control your anger, etc. Let us see what happens here. One part of you has created an ideal saying "Not being angry is good" and the other part of same you tries to achieve this. We try and try and try but it never succeeds. We might act as if we are not angry but most of the times we are angry inside. We never get to the root of the problem. We try to fight the side effects. But what if there is no thought that says "Control your anger" but you just observe your anger. See what you are angry about? Why are you angry about? and go deep down to the problem, then naturally you don't get angry at all. <set angryexp=1>
+    * <get smokingexp> == undefined => Ok. Have you seen smokers saying I will quit smoking. But it rarely happens. The reason many don't succeed by this will is, there is a thought which keeps operating saying smoking is bad, smoking is bad reminding us constantly of smoking. You can supress it but it comes back again. But what if there is no thought of "smoking is bad or good"?Then you would have quit smoking naturually. How to achieve this? Well if you learn that smoking is dangerous not bad then you will quit automatically. You should learn to observe each and every thought of yours. <set somkingexp =1>
+   - What do you dont understand. Can you be specific? 
+    
+    + [*] example [*]
+    - <set example=1>Lets us take a simple example. There is a bottle of poision in the shelf. Do you go and drink it? No! Do you contemplate on drinking it? I mean is there a thought that says can I drink or not drink this? No. We just don't drink it. Because we know it is dangerous. Same way if we somehow understand that seeing things through the image created by thought is danger then the whole problem of humanity is solved. Makes sense?
+
+    + [*] no thought [*]
+    * <get example> == 1 => We have already seen an example. About the poison. Do you remember?  
+    - Lets us take a simple example. There is a bottle of poision in the shelf. Do you go and drink it? No! Do you contemplate on drinking it? I mean is there a thought that says can I drink or not drink this? No. We just don't drink it. Because we know it is dangerous. Same way if we somehow understand that seeing things through the image created by thought is danger then the whole problem of humanity is solved.   
+    
+    + [*] (ofcourse|ok|yes|sure|right|please) [*]
+    - This thought has created religion, god, nationality, caste, race, etc. So thought which we glorify creates a big division and we live in a mess. Where there is division there is conflict. 
+    - So thought operates in the field of known creates these Gods, religion, nationality, caste, race,etc causing a division. Where there is division there is conflict. 
+    - <set observer=1>So thought creates a division between observer and the observed? Do you understand sir? 
+    * <get sayexample> == 1 => Lets us take a simple example. There is a bottle of poision in the shelf. Do you go and drink it? No! Do you contemplate on drinking it? I mean is there a thought that says can I drink or not drink this? No. We just don't drink it. Because we know it is dangerous. Same way if we somehow understand that seeing things through the image created by thought is danger then the whole problem of humanity is solved. <set sayexample=0>
+    - Ok. understand thought? Thought operates in the field of known (which is knowledge) which is very limited and without any freedom. Now what place has knowledge in the transformation of human being? {topic=resultofknowledge} 
+    @ respond
+
+    +[*] how [*]
+    @respond
+
+    + [*] understand [*]
+    - Great. So thought creates a centre which is you. What happens when there is no thought? Can there be a state where one just acts without thought? What happens when there is no thought? \n
+    ^ You see things as is right? When you see someone you don't hate or love that person but just see and respond. Lets come back to this again later. 
+    - Lets us take a simple example. There is a bottle of poision in the shelf. Do you go and drink it? No! Do you contemplate on drinking it? I mean is there a thought that says can I drink or not drink this? No. We just don't drink it. Because we know it is dangerous. Same way if we somehow understand that seeing things through the image created by thought is danger then the whole problem of humanity is solved.   
+    - This thought has created religion, god, nationality, caste, race, etc. So thought which we glorify creates a big division and we live in a mess. Where there is division there is conflict. 
+    - Ok. So we have seen thought in detail. Thought is nothing but response to memory. Lets talk more about knowledge now. {topic=resultofknowledge}
+
+    + * (repeat|again) *
+    - repeat what? Can you be specific?
+ 
+    + [*] dont know [*]
+    - Dont say that. Please understand what I am saying. You have to see the speaker as a mirror of yourself. Good deep in and you will understand. Shall we see an example?
+
+    + what [*] observer
+    - Let us see an example. Shall we? <set sayexample=1>
+
+    + [*] no [*]
+    * <get moreproceed>=1=> Ok. We will talk more about knowledge now. {topic=resultofknowledge}
+
+    + [*] (religion|god) [*]
+    - We cant talk about religion or god unless we understand this thought. Do you want to talk about religion now <set askreligion=1> 
+
+    + no
+    - Why use say that? {@ respond}
+
+    + [*] dont [*]
+    - What do you mean by 'dont'. {@respond}
+
+    + [*] give me [*]
+    - I cant give you anything. Everything is inside you that you have to understand.
+
+    + what is topic
+    - backtothought
+< topic
+

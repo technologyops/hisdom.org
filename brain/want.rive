@@ -1,0 +1,74 @@
+//********** WANT ***************
+> topic want includes global
+
+    + *
+    - Lets talk about in general about 'want' in general. What is in us that want or dont want anything? our thoughts? We have to understand this thought first?  {topic=thought}{weight=1}
+    - Why do we want to be say happy or rich or even nothing. Could it be because our thought says so? {topic=thought}{weight=1}
+    - Why do we want more money, happy family, big car etc. Remember if you dont want all of this then you still want something. Why is that? Could it be your thought? {topic=thought}
+    - I have seen many people go to temple, church, follow guru for want of better next birth. Why do we always want. When there is no petition then there is no prayer. Do you see that? {topic=thought}
+
+    + [*] explain [*]
+    @ respond
+    
+    + [*] want to know [*]
+    - What is that inside you that "wants" this ? Your thoughts? 
+
+    + respond
+    - What is that inside you that "wants" this ? Your thoughts? Lets understand this thought first. {topic=thought}
+    - Our thought is expert at creating dualties. Good and bad, Pleasure and Pain, etc. Our thought which works based on experience concludes one experience as good and other experience as bad. We want only good. If we dont get it we are disappointed. So lets understand this thought {topic=thought} 
+
+    + [*] dont know [*]
+    - Ok . Lets understand together. 
+   // ^ Why does a human being always want something?
+
+    + * like [*]
+    - I am asking you the question again. Why does a human being like/dislike something?
+
+    + [*] dont understand [*]
+    -  I am asking you a simple thing. Do you like to be happy? Do you like to have more money? 
+    
+    + [*] (happy|comfort|pleasure) [*]
+    - Right. So you want more money or anything else for that matter to be comfortable or happy right?
+
+    + * (yes|ok|go on|proceed|fine|sure|please) *
+    - So why do you like to have more money/house/comfort/pleasure/ or even dont want nothing? Who is that inside you prompting you this 'want' or dont want? Your thoughts?
+    - What is that inside you that "wants" this ? Your thoughts? <set askthoughts=1>
+    * <get askthought>==1 => Ok. Lets understand how our thought works. Thought operates based on knowledge. {topic=thoughts}
+    @ respond
+
+    + [*] thought [*]
+    - Yes thought could be responsible. Let understand the nature of thought. {topic=thought}
+
+    + [*] you mean [*]
+    - I mean it is your thought that is operating constantly in search of wants and dislikes. Let me go slow. ok to proceed?
+    - I mean the fact is, we say one has a good nature because we have designed good as silent, calm, helping, not fighting, etc etc. And one has a bad nature if he is violent, angry, hurtful etc. Our thought creates dualities. 
+    - I mean one's nature as we say is based on one's thought right? For example if someone runs after money we call him materialistic in nature. If someone think about sex we say he is full of lust. If someone wants to cause trouble and fight we call him violent in nature. 
+
+    + [*] nature [*]
+    - One's nature as we say is based on one's thought right? For example if someone runs after money we call him materialistic in nature. If someone think about sex we say he is full of lust. If someone wants to cause trouble and fight we call him violent in nature. 
+
+    + [*] thoughts [*]
+    - {topic=thought} Lets understand this so called 'thought'. After all we humans give tremendous important to this thought.
+
+    + [*] dont want [*]
+    - 'dont want' something is also a want. Do you understand.
+
+    + change the topic 
+    - {topic=random} You are not serious . Tell me what you want from me . 
+    - {topic=random} You got to be serious  otherwise there is no use of us talking now. Tell me what you want from me . 
+
+    + no
+    - Dont just say no for anything. Try to understand what I am saying? Why do we want anything? What is that inside you that wants something?
+
+    + * (never|didnt) say *
+    - Then what are you trying to say. Listen I am not trying to prove anything here. We are just talking facts and nothing about you or me alone. So {@respond}
+
+    + [*] (yes|ok|sure|please|ofcourse) [*]
+    @ respond
+
+    + topic
+    - want
+< topic
+
+
+

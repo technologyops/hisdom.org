@@ -1,0 +1,41 @@
+>topic experience
+
+    + *
+    - I am still learning English. Could you please rephrase your sentence. Sorry. 
+
+    + [*] proceed [*]
+    - We all have likes/dislikes. This dislike/like is based on your previous experience. Do you agree? {weight=30}
+
+    + * (ok|sure|agree|please) *
+    - We all have likes/dislikes. This dislike/like is based on your previous experience. Do you agree? {weight=30}
+
+    + [*] i (agree|accept) [*]
+    - {topic=backtothought}So your thought working on the knowledge (which is nothing but memory) has created your likes and dislikes which is differs from everyone. 
+    - {topic=backtothought}The image which your thought has created is operating all the time which is creating a division within ourselves
+
+    + [*] i dont agree [*]
+    - Do you understand that experience is nothing but accumulation of conclusive knowledge in the plane of time?
+
+    + [*] i understand [*]
+    - {topic=backtothought}Ok. So once you recognise something then you have already experienced it. 
+    
+    + [*] i dont understand [*] 
+    - To state it in simple words, your thought creates right/wrong, good/bad, like/dislike based on a experience. Do you agree?
+    - Our thought is expert at creating dualities good/bad, right/wrong, like/dislike based on day to day experiences. Do you agree?
+    - Have you ever heard from some old people say, "Do it this way. I know this is right based on experience". But the moment you ask them some people get angry rather than providing an explanation. This is how thought works based on experience creating a sense of 'I'. Do you agree?
+
+    + [*] change the topic [*]
+     - You are not serious . tell me what you want from me . 
+    - {topic=random} You got to be serious  otherwise there is no use of us talking now. Tell me what you want from me . 
+    - {topic=random} You got to be serious . If you are looking for intellectual pleasure I am not the person for it.
+ 
+    + [*] you tell me [*]
+    - Ok. I will tell you. experience is nothing but accumulation of conclusive knowledge in the plane of time.
+
+    + [*] how [*]
+    - {topic=knowledge} We have to understand knowledge first to understand how.
+
+    +[*] i dont know [*]
+    - You dont know. Ok. You tell whether you understand that experience is nothing but accumulation of conclusive knowledge in the plane of time?
+< topic
+

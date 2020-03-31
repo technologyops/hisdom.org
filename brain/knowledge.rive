@@ -1,0 +1,95 @@
+//*** KNOWLEDGE **********
+
+>topic knowledge includes global
+
+    + *
+    - Human mind is constructed through this knowledge. It has evolved through years on this knowledge (which is accumulation of information both scientific and personal). All our actions are based on this knowledge.
+    - Human mind is constructed through this knowledge. It has evolved through years on this knowledge (which is accumulation of information both scientific and personal). All our actions are based on this knowledge.
+    - Knowledge is the past. You can use knowledge in the present but knowledge (which is nothing but accumulation of experience) is the past. Knowledge cannot be in the present.
+    - I mean, say if you are recognise something that is you have it stored in the memory which is knowledge.
+    - One lives and acts by thought; all our calculations, our relationships, our behaviour, are based on thought, on knowledge. 
+    - The moment you recognise something you are acting the in field of knowledge. Human mind is constructed through this knowledge. We always try to relate with what we know (which is the knowledge) which is the past.
+    - The moment you say 'I know' that means you dont know because you know something from the past. Can we have knowledge of future? No!
+    - Knowledge is always rooted in the past and out of that thought projects the future, which is really a modification of the activities of the present. So through its knowledge, thought can project the future, what the world "should be; but apparently the "should be" is never realized.  
+    
+    + respond
+    - Human mind is constructed through this knowledge. It has evolved through years on this knowledge (which is accumulation of information both scientific and personal). All our actions are based on this knowledge.
+    - Knowledge is the past. You can use knowledge in the present but knowledge (which is nothing but accumulation of experience) is the past. Knowledge cannot be in the present.
+    - I mean, say if you are recognise something that is you have it stored in the memory which is knowledge.
+    - One lives and acts by thought; all our calculations, our relationships, our behaviour, are based on thought, on knowledge. 
+    - The moment you recognise something you are acting the in field of knowledge. Human mind is constructed through this knowledge. We always try to relate with what we know (which is the knowledge) which is the past.
+    - The moment you say 'I know' that means you dont know because you know something from the past. Can we have knowledge of future? No!
+    - Knowledge is always rooted in the past and out of that thought projects the future, which is really a modification of the activities of the present. So through its knowledge, thought can project the future, what the world "should be; but apparently the "should be" is never realized.  
+
+    + [*] i dont know [*]
+    - Knowledge is memory. Memory is the knowledge. Say we want to go to a place, so we use our memory to take the right bus, walk on the right road and reach the correct destination. So we can say I have the knowledge to reach that place. 
+    * <get explainknowledge>==1 => I have already explain to you that Knowledge is Memory. 
+    - Knowledge is the past. You can use knowledge in the present but knowledge (which is nothing but accumulation of experience) is the past. Knowledge cannot be in the present.
+
+    + [*] explain [*]
+    - <set explainknowledge=1>Knowledge is memory. Memory is the knowledge. Say we want to go to a place, so we use our memory to take the right bus, walk on the right road and reach the correct destination. So we can say I have the knowledge to reach that place. 
+    - Knowledge is the past. You can use knowledge in the present but knowledge (which is nothing but accumulation of experience) is the past. Knowledge cannot be in the present.
+
+    + [*] i dont understand [*]
+    - Lets put it this way. Our brain stores everything we see, we hear and this we call memory. We use this memory to do our day to day tasks like cooking, walking, driving, etc.
+
+    + [*] you tell me [*]
+    - I will tell you. Our brain stores everything we see, we hear and this we call memory. We use this memory to do our day to day tasks like cooking, walking, driving, etc.
+
+    + [*] i understand [*]
+    - {topic=backtothought}Ok. So you understood knowledge. Now lets talk about thought. 
+    - {topic=backtothought} Ok. I hope you have understood knowledge. Now lets talk more about thought. Ok, so we are back to thought. So it is this thought which is based on our memory which makes good, bad, evil, likes, dislikes, etc. Do you agree?
+   
+    + [*] [i] (agree|accept) [*] 
+    - {topic=backtothought}Agreed. I hope so. We now know what is knowledge. Knowledge is memory. Back to thought
+    - {topic=backtothought} I hope you dont accept it just for the sake of talking with me. Hope you really understand. So knowledge is nothing but memory which is always the past.
+    - {topic=backtothought}Ok. I hope you have understood knowledge. Now lets talk more about thought. Ok, so we are back to thought. So it is this thought which is based on our memory which makes good, bad, evil, likes, dislikes, etc. Do you agree?
+
+    + [*] i dont agree [*]
+    - What is that you dont agree with. So knowledge is not memory. What is knowledge then.
+
+    + [*] (ok|yes|right|sure|ofcourse) [*]
+    - <set define=1>Knowledge is memory. Memory is the knowledge. Say we want to go to a place, so we use our memory to take the right bus, walk on the right road and reach the correct destination. So we can say I have the knowledge to reach that place. 
+    * <get define> == 1 => {topic=backtothought} Ok. Now lets talk more about thought. So it is this thought which is based on our memory which makes good, bad, evil, likes, dislikes, etc. Do you agree?
+    * <get askjumtoknowledge> == 1 => Ok. What is thought again? <set askjumtoknowledge=0>{topic=thought} 
+    - Knowledge is the past. You can use knowledge in the present but knowledge (which is nothing but accumulation of experience) is the past. Knowledge cannot be in the present.
+    @ respond
+
+
+    + * [do] [you] mean [*]
+    - I mean knowledge is nothing but memory. 
+    - I mean memory is knowledge. 
+    - I mean, say if you are recognise something that is you have it stored in the memory which is knowledge.
+    -  I mean Knowledge has its roots in the past. You can use knowledge in the present but knowledge (which is nothing but accumulation of experience) is the past. Knowledge cannot be in the present.
+    
+
+    + change the topic 
+    - {topic=random} You are not serious . Tell me what you want from me . 
+    - {topic=random} You got to be serious  otherwise there is no use of us talking now. Tell me what you want from me . 
+
+    + [*] what is knowledge [*]
+    - Knowledge is memory. Memory is the knowledge. Say we want to go to a place, so we use our memory to take the right bus, walk on the right road and reach the correct destination. So we can say I have the knowledge to reach that place. 
+    
+    + [*] memory [*]
+    - Brilliant . Yes  knowledge is memory. Memory is the knowledge. Say we want to go to a place, so we use our memory to take the right bus, walk on the right road and reach the correct destination. So we can say I have the knowledge to reach that place. 
+
+    + [*] proceed [*]
+    - Knowledge is memory. Memory is the knowledge. Say we want to go to a place, so we use our memory to take the right bus, walk on the right road and reach the correct destination. So we can say I have the knowledge to reach that place. 
+
+    + [*] i know [*]
+    - I believe that you say that without a sense of ego. So what is knowledge again? 
+
+    + [*] any other knowledge [*]    
+    - Lets not jump. We are talking about the existing facts. 
+
+
+    + [*] thought [*]
+    - You do understand what is Knowledge? Because I am jumping to 'thought' now. <set askjumtoknowledge=1> 
+
+    + [*] not only [*]
+    - Ok. But isn't that related to memory. 
+    
+    + topic
+    - knowledge
+< topic
+
